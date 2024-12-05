@@ -6,6 +6,8 @@
     </picture>
 </div>
 
+[![Dependabot Updates](https://github.com/learn2reid/dependabot-demo/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/learn2reid/dependabot-demo/actions/workflows/dependabot/dependabot-updates)
+
 ## Dependabot Demo Repository
 
 This repo contains some projects with outdated dependencies. Fork it to try out
